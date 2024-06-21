@@ -6,7 +6,7 @@ An application to do something I've always wanted to do: patch the System file t
  *  There is a chance of "de-blessing" the System Folder. If this happens, make another copy of the original System file and try patching again.
  *  For System 7 and later, you may have to patch the System Enabler as well as the System file. The same warnings and caveats apply!
 
-![](wiki/patcher.png)
+![](wiki/v2.png)
 
 ![](wiki/profanity.png)
 
